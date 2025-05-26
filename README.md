@@ -165,6 +165,9 @@ void loop()
 ## OUTPUT:
 ![Screenshot 2024-11-14 033414](https://github.com/user-attachments/assets/d9c3bd74-0a82-4290-a8e1-21e08178b80a)
 
+![Screenshot 2025-05-24 110305](https://github.com/user-attachments/assets/f1a42d92-0628-4314-b1ee-24bc86654230)
+
+
 ## RESULT:
 Thus the distance values are updated in the Thing speak cloud using ESP32 controller.
 
